@@ -14,7 +14,7 @@ The purpose of this project was to examine data from the ride service company Py
 # Suburban Cities
 - Total number of rides for suburban cities are 625
 - Total number of drivers for suburban cities are 490
-- Total fares for suburban cities are $4,327.93 
+- Total fares for suburban cities are $19,356.33
 - Average fare per ride is $30.97 
 - Average fare per driver is $39.50
 
